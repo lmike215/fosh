@@ -1,2 +1,2 @@
 # fosh
-Tampermonkey script that adds the ability to view content using the Sci-Hub service.
+Tampermonkey userscript that adds the ability to view content using the Sci-Hub service.
