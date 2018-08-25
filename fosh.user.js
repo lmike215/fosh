@@ -3,7 +3,7 @@
 // @namespace    http://github.com/lmike215/fosh
 // @version      0.1
 // @description  Adds the ability to view content content using the Sci-Hub service.
-// @author       You
+// @author       lmike215
 // @match        *.nejm.org/*
 // @match        *.jwatch.org/*
 // @match        *.springer.com/*
@@ -13,6 +13,7 @@
 // @match        *.tandfonline.com/*
 // @match        scholar.google.com/*
 // @match        *.ingentaconnect.com/*
+// @match        *.wiley.com/*
 // @grant        GM_addStyle
 // ==/UserScript==
 
